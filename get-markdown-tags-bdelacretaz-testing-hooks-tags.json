@@ -3,9 +3,16 @@
   "source": {
     "octokitUser": "bdelacretaz",
     "branchURL": "https://api.github.com/repos/bdelacretaz/testing-hooks/branches/master",
-    "sha": "299242838318efd4401c395888123e6013c4cc3d"
+    "sha": "9624641bfa9b926857506bb518171418c9565368"
   },
   "tags": {
+    "demo": [
+      "markdown/third-markdown-example.md",
+      "markdown/some-markdown-example.md"
+    ],
+    "third": [
+      "markdown/third-markdown-example.md"
+    ],
     "example": [
       "markdown/some-markdown-example.md",
       "markdown/another-markdown-example.md"
@@ -14,16 +21,9 @@
       "markdown/some-markdown-example.md",
       "markdown/another-markdown-example.md"
     ],
-    "demo": [
-      "markdown/some-markdown-example.md",
-      "markdown/third-markdown-example.md"
-    ],
-    "third": [
-      "markdown/third-markdown-example.md"
-    ],
     "another": [
       "markdown/another-markdown-example.md"
     ]
   },
-  "creationDate": "2019-06-20T15:07:11.914Z"
+  "creationDate": "2019-06-20T15:17:19.481Z"
 }
