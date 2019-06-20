@@ -1,0 +1,10 @@
+{
+  "description": "List of front matter tags found in the specified GitHub source",
+  "source": {
+    "octokitUser": "bdelacretaz",
+    "branchURL": "https://api.github.com/repos/apache/sling-site/branches/master",
+    "sha": "0de72b6eb419965167c9f3de89ca04faa3db4653"
+  },
+  "tags": {},
+  "creationDate": "2019-06-20T14:58:18.111Z"
+}
