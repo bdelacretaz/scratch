@@ -7,23 +7,23 @@
   },
   "tags": {
     "example": [
-      "markdown/another-markdown-example.md",
-      "markdown/some-markdown-example.md"
+      "markdown/some-markdown-example.md",
+      "markdown/another-markdown-example.md"
     ],
     "markdown": [
-      "markdown/another-markdown-example.md",
-      "markdown/some-markdown-example.md"
-    ],
-    "another": [
+      "markdown/some-markdown-example.md",
       "markdown/another-markdown-example.md"
     ],
     "demo": [
       "markdown/some-markdown-example.md",
       "markdown/third-markdown-example.md"
     ],
+    "another": [
+      "markdown/another-markdown-example.md"
+    ],
     "third": [
       "markdown/third-markdown-example.md"
     ]
   },
-  "creationDate": "2019-06-21T07:11:39.722Z"
+  "creationDate": "2019-06-21T07:11:51.560Z"
 }
