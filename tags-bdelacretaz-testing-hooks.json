@@ -5,6 +5,25 @@
     "branchURL": "https://api.github.com/repos/bdelacretaz/testing-hooks/branches/master",
     "sha": "e6ffdc4b1ef6f5477d714814df681ad5aaf0fc3f"
   },
-  "tags": {},
-  "creationDate": "2019-06-21T07:49:57.387Z"
+  "tags": {
+    "example": [
+      "markdown/some-markdown-example.md",
+      "markdown/another-markdown-example.md"
+    ],
+    "markdown": [
+      "markdown/some-markdown-example.md",
+      "markdown/another-markdown-example.md"
+    ],
+    "demo": [
+      "markdown/some-markdown-example.md",
+      "markdown/third-markdown-example.md"
+    ],
+    "another": [
+      "markdown/another-markdown-example.md"
+    ],
+    "third": [
+      "markdown/third-markdown-example.md"
+    ]
+  },
+  "creationDate": "2019-06-21T07:50:12.117Z"
 }
