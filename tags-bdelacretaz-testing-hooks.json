@@ -6,13 +6,6 @@
     "sha": "9624641bfa9b926857506bb518171418c9565368"
   },
   "tags": {
-    "demo": [
-      "markdown/third-markdown-example.md",
-      "markdown/some-markdown-example.md"
-    ],
-    "third": [
-      "markdown/third-markdown-example.md"
-    ],
     "example": [
       "markdown/some-markdown-example.md",
       "markdown/another-markdown-example.md"
@@ -21,9 +14,16 @@
       "markdown/some-markdown-example.md",
       "markdown/another-markdown-example.md"
     ],
+    "demo": [
+      "markdown/some-markdown-example.md",
+      "markdown/third-markdown-example.md"
+    ],
     "another": [
       "markdown/another-markdown-example.md"
+    ],
+    "third": [
+      "markdown/third-markdown-example.md"
     ]
   },
-  "creationDate": "2019-06-21T07:13:09.467Z"
+  "creationDate": "2019-06-21T07:13:13.600Z"
 }
